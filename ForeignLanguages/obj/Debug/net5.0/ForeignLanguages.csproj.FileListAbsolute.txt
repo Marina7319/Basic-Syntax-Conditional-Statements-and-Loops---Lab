@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ForeignLanguages.exe
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ForeignLanguages.deps.json
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ForeignLanguages.runtimeconfig.json
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ForeignLanguages.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ForeignLanguages.dll
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ref\ForeignLanguages.dll
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\bin\Debug\net5.0\ForeignLanguages.pdb
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.dll
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ref\ForeignLanguages.dll
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.pdb
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.genruntimeconfig.cache
+C:\Users\Marina\source\repos\Course Intro\ForeignLanguages\obj\Debug\net5.0\ForeignLanguages.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\studentInformation.exe
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\studentInformation.deps.json
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\studentInformation.runtimeconfig.json
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\studentInformation.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\studentInformation.dll
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\ref\studentInformation.dll
+C:\Users\Marina\source\repos\Course Intro\studentInformation\bin\Debug\net5.0\studentInformation.pdb
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.dll
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\ref\studentInformation.dll
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.pdb
+C:\Users\Marina\source\repos\Course Intro\studentInformation\obj\Debug\net5.0\studentInformation.genruntimeconfig.cache

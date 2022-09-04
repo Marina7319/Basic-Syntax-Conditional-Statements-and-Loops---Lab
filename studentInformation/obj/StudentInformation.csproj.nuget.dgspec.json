@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marina\\source\\repos\\Course Intro\\studentInformation\\StudentInformation.csproj": {}
+    "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\studentInformation\\StudentInformation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marina\\source\\repos\\Course Intro\\studentInformation\\StudentInformation.csproj": {
+    "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\studentInformation\\StudentInformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Course Intro\\studentInformation\\StudentInformation.csproj",
+        "projectUniqueName": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\studentInformation\\StudentInformation.csproj",
         "projectName": "StudentInformation",
-        "projectPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\studentInformation\\StudentInformation.csproj",
+        "projectPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\studentInformation\\StudentInformation.csproj",
         "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\studentInformation\\obj\\",
+        "outputPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\studentInformation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Course Intro\\MultiplicationTable\\MultiplicationTable.csproj",
+      "projectUniqueName": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\MultiplicationTable\\MultiplicationTable.csproj",
       "projectName": "MultiplicationTable",
-      "projectPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\MultiplicationTable\\MultiplicationTable.csproj",
+      "projectPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\MultiplicationTable\\MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\MultiplicationTable\\obj\\",
+      "outputPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",

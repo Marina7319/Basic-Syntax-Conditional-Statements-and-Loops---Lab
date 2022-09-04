@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marina\\source\\repos\\Course Intro\\BackIn30Minutes\\BackIn30Minutes.csproj": {}
+    "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\BackIn30Minutes\\BackIn30Minutes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marina\\source\\repos\\Course Intro\\BackIn30Minutes\\BackIn30Minutes.csproj": {
+    "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\BackIn30Minutes\\BackIn30Minutes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Course Intro\\BackIn30Minutes\\BackIn30Minutes.csproj",
+        "projectUniqueName": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\BackIn30Minutes\\BackIn30Minutes.csproj",
         "projectName": "BackIn30Minutes",
-        "projectPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\BackIn30Minutes\\BackIn30Minutes.csproj",
+        "projectPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\BackIn30Minutes\\BackIn30Minutes.csproj",
         "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\BackIn30Minutes\\obj\\",
+        "outputPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\BackIn30Minutes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",

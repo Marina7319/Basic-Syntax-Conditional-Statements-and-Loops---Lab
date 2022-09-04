@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Course Intro\\SumOfOddNumbers\\SumOfOddNumbers.csproj",
+      "projectUniqueName": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\SumOfOddNumbers\\SumOfOddNumbers.csproj",
       "projectName": "SumOfOddNumbers",
-      "projectPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\SumOfOddNumbers\\SumOfOddNumbers.csproj",
+      "projectPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\SumOfOddNumbers\\SumOfOddNumbers.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\SumOfOddNumbers\\obj\\",
+      "outputPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\SumOfOddNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",

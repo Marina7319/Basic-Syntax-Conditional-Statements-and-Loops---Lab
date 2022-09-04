@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Course Intro\\ForeignLanguages\\ForeignLanguages.csproj",
+      "projectUniqueName": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\ForeignLanguages\\ForeignLanguages.csproj",
       "projectName": "ForeignLanguages",
-      "projectPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\ForeignLanguages\\ForeignLanguages.csproj",
+      "projectPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\ForeignLanguages\\ForeignLanguages.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\ForeignLanguages\\obj\\",
+      "outputPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\ForeignLanguages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",

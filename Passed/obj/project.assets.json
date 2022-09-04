@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Course Intro\\Passed\\Passed.csproj",
+      "projectUniqueName": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\Passed\\Passed.csproj",
       "projectName": "Passed",
-      "projectPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\Passed\\Passed.csproj",
+      "projectPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\Passed\\Passed.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marina\\source\\repos\\Course Intro\\Passed\\obj\\",
+      "outputPath": "D:\\Programming Fundamentals with C# - май 2022\\Exercise Basic Syntax, Conditional Statements and Loops\\Basic-Syntax-Conditional-Statements-and-Loops---Lab\\Passed\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
